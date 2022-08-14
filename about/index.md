@@ -7,4 +7,16 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+Hey there! <br>
+My name is Eirika Doe and welcome to my blog!
+
+I am a Biomedical Engineering student at the University of Hull. While engineering is more so the culmination of expectations I've held for myself than a burning passion I've persued, I still think it's worth sticking to, at least for now.
+
+My previous coding experience is severely limited, editing and creating new Warcraft 3 maps to play with my siblings and attempting to create my own Civilisation V mod, I mainly stuck to pre-established templates, rarely attempting anything brand new. 
+
+Whether this blog proves fruitful and sprouts towards a plentiful repository of my experiences, or dies beneath the weight of my growing responsibilities is yet to be seen. <br>
+*Stay Tuned For More!*
+
+Contact me at:<br>
+Discord: Xemi#9239<br>
+Email: eirikadoesntcode@gmail.com<br>
