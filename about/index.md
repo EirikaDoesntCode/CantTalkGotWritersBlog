@@ -14,7 +14,7 @@ I am a Biomedical Engineering student at the University of Hull. While engineeri
 
 My previous coding experience is severely limited, editing and creating new Warcraft 3 maps to play with my siblings and attempting to create my own Civilisation V mod, I mainly stuck to pre-established templates, rarely attempting anything brand new. 
 
-Whether this blog proves fruitful and sprouts towards a plentiful repository of my experiences, or dies beneath the weight of my growing responsibilities is yet to be seen. <br>
+Whether this blog will prove fruitful and sprout towards a plentiful repository of my experiences, or die beneath the weight of my growing responsibilities is yet to be seen. <br>
 *Stay Tuned For More!*
 
 Contact me at:<br>
