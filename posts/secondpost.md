@@ -8,6 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 <a href="{{ '/posts/post220814/' | url }}">First post</a>
+
 Choosing how to spend your time. <br>
 This is something I struggle with regularly. In the past I would spend every free hour of each day playing video games, 
 
