@@ -22,6 +22,12 @@ s = "Python syntax highlighting"
 print s
 ```
 -->
+```html5
+<p style="background-color:aliceblue"><b>This text is bold</b><br><strong>This text is strong/important</strong><br><i>This text is Italic</i><br><em>this text is emphasised</em>
+    <br><small>This text is small</small><br><mark>MARK</mark><br>This line has <del>deleted</del> text
+    <br> This has <ins>inserted</ins> text<br> Finally, <sub>subscript</sub> and <sup>superscript</sup></p>
+```
+
 ![Text Emphasis tests](/img/Testemphasis.png)
 ## Enhanced by the Crimson Tome
 <!-- To include in second section: Robyn did all the work, usb drive failed xP, Ubuntu, customisable and lightweight, clean desktop xD  -->
