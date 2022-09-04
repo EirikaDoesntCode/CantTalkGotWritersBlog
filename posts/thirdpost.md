@@ -22,6 +22,7 @@ s = "Python syntax highlighting"
 print s
 ```
 -->
+![Emphasis Test (Bold, Italic, Underlined, Crossed out, Small, Highlight, Super and Subscript)] (/CantTalkGotWritersBlog/img/Testemphasis.png "Emphasis Tests")
 ## Enhanced by the Crimson Tome
 <!-- To include in second section: Robyn did all the work, usb drive failed xP, Ubuntu, customisable and lightweight, clean desktop xD  -->
 
