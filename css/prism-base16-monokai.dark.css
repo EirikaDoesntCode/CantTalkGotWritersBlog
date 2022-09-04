@@ -1,6 +1,7 @@
 code[class*="language-"], pre[class*="language-"] {
 	font-size: 14px;
 	line-height: 1.375;
+	max-width: 600px;
 	direction: ltr;
 	text-align: left;
 	white-space: pre;
