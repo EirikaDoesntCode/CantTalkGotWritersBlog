@@ -22,7 +22,7 @@ s = "Python syntax highlighting"
 print s
 ```
 -->
-![Text Emphasis tests](https://github.com/EirikaDoesntCode/CantTalkGotWritersBlog/blob/main/img/Testemphasis.png "Text Emphasis Tests")
+![Text Emphasis tests](/img/Testemphasis.png)
 ## Enhanced by the Crimson Tome
 <!-- To include in second section: Robyn did all the work, usb drive failed xP, Ubuntu, customisable and lightweight, clean desktop xD  -->
 
