@@ -29,6 +29,24 @@ print s
 ```
 
 ![Text Emphasis tests](/img/Testemphasis.png)
+```html
+    <h2>header 2</h2>
+    <h3>header 3</h3>
+    <h4>header 4</h4>
+    <h5>header 5</h5>
+    <h6>header 6</h6>
+    <a href="https://edcblog.netlify.app/">Link To My Blog</a>
+    <hr>
+    <img src="/Users/Eirika/Desktop/wondermongus.png" alt="Amogus" width="100" height="80">
+    <hr>
+    <p style="background-color:tomato; color:yellowgreen" title="This is a tooltip?">This is a blueviolet paragraph</p>
+    <p style="color:gold">This is a gold paragraph</p>
+    <p style="color:aqua">This is a aqua paragraph</p>
+```
+
+![Headers Sizes Links and Images](/img/Headersizeslinkimage.png)
+I plan to return to this page at a later date and actually explain the code that's being displayed here. 
+
 ## Enhanced by the Crimson Tome
 <!-- To include in second section: Robyn did all the work, usb drive failed xP, Ubuntu, customisable and lightweight, clean desktop xD  -->
 
